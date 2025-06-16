@@ -30,6 +30,12 @@
 
 ## 👥 小組成員與分工
 
+- Data Pre-processing - 郭家榛
+- Data Transformation (One-hot、Dummy) - 江鴻麟
+- Descriptive Statistics - 江鴻麟
+- Modeling - 徐宏瑋
+- Results: Presentation and interpretation of the findings from data, including visualizations - 駱詠誌
+- Conclusion: Provide 3 key business insights from the results. - 江鴻麟
 
 ---
 
